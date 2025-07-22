@@ -12,10 +12,12 @@ Using both:
 ## Folder Structure
 
 ```
-├── isah-dauda0hardhat/
-│ └── contracts, scripts, etc.
 ├── isah-dauda0foundry/
 │ └── src, script, broadcast, etc.
+
+├── isah-dauda0hardhat/
+│ └── contracts, scripts, etc.
+
 ```
 
 ## Commands Used
