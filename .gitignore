@@ -1,0 +1,7 @@
+echo node_modules/ >> .gitignore
+echo .env >> .gitignore
+echo cache/ >> .gitignore
+echo broadcast/ >> .gitignore
+echo artifacts/ >> .gitignore
+echo out/ >> .gitignore
+echo .vscode/ >> .gitignore
