@@ -11,12 +11,12 @@ Using both:
 
 ## Folder Structure
 
-Storage-Dev-Isah-Dauda/
+```
 ├── isah-dauda0hardhat/
 │ └── contracts, scripts, etc.
 ├── isah-dauda0foundry/
 │ └── src, script, broadcast, etc.
-
+```
 
 ## Commands Used
 
