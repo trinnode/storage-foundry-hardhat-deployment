@@ -1,13 +1,13 @@
 ##### sepolia
 ✅  [Success] Hash: 0x588cc266264ffe4ecaa921d44ce01e79125bd90ecdc3f0ac58890630c55e20a6
+
 Contract Address: 0x155c0CbEdfBA688974A7354D39797c09667f98a3                                                                               
 Block: 8820296
 Paid: 0.000073489593390544 ETH (117683 gas * 0.624470768 gwei)
 
-
-## Foundry
-##### 1115
+##### CoreDao
 ✅  [Success] Hash: 0xb0099a4b699bf12ddf26f060688e0f71d7dcafbbec93a4b1bdcae457b0b01b64
+
 Contract Address: 0x65A190159B085E302FCe7c4E406f852295d3FF6b
 Block: 32182950
 Paid: 0.000117683 ETH (117683 gas * 1 gwei)
